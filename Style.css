@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+}
+.parent{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightblue;
+    padding: 12px;
+    position: fixed;
+    width: 100%;
+}
+.child{
+    display: flex;
+    gap:30px;
+}
+#m1{
+    position: relative;
+    top: 12vh;
+    left: 18%;
+}
+#m2{
+    position: relative;
+    top: 65vh;
+}
+#m3{
+    position: relative;
+    top:38vh;
+}
+#m4{
+    position: relative;
+    top: 12vh;
+}
+#m5{
+    position: relative;
+    top: 65vh;
+    right:18%;
+}
