@@ -21,18 +21,21 @@
 }
 #m2{
     position: relative;
-    top: 65vh;
+    top: 64vh;
+    left: 6%;
 }
 #m3{
     position: relative;
     top:38vh;
+    left: 6%;
 }
 #m4{
     position: relative;
     top: 12vh;
+    left: 6%;
 }
 #m5{
     position: relative;
-    top: 65vh;
-    right:18%;
+    top: 64vh;
+    left:-6%;
 }
